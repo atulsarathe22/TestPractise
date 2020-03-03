@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83b519e8-7ff7-4b96-95e8-cd334592c593" name="Default Changelist" comment="">
+      <change beforePath="C:/Idea/lopes-lab-automation-scripts/pom.xml" beforeDir="false" afterPath="C:/Idea/lopes-lab-automation-scripts/pom.xml" afterDir="false" />
+      <change beforePath="C:/Idea/lopes-lab-automation-scripts/src/main/java/common/LoggingLogFile.java" beforeDir="false" afterPath="C:/Idea/lopes-lab-automation-scripts/src/main/java/common/LoggingLogFile.java" afterDir="false" />
+      <change beforePath="C:/Idea/lopes-lab-automation-scripts/src/main/resources/Configuration.properties" beforeDir="false" afterPath="C:/Idea/lopes-lab-automation-scripts/src/main/resources/Configuration.properties" afterDir="false" />
+      <change beforePath="C:/Idea/lopes-lab-automation-scripts/src/test/java/runners/LtiPageRunner.java" beforeDir="false" afterPath="C:/Idea/lopes-lab-automation-scripts/src/test/java/runners/LtiPageRunner.java" afterDir="false" />
+      <change beforePath="C:/Idea/lopes-lab-automation-scripts/src/test/java/step_definations/LtiSteps.java" beforeDir="false" afterPath="C:/Idea/lopes-lab-automation-scripts/src/test/java/step_definations/LtiSteps.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="C:/Idea/ui-automation-tests/target/" />
+    <ignored path="C:/Idea/lopes-lab-automation-scripts/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$USER_HOME$/Documents/Atul" userTempatePath="" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.xml</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Atul Sarathe\IdeaProjects\TestProject\src\test\java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/Idea/lopes-lab-automation-scripts" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestClassHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/jsonTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RestTutorial.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RestAssuredPractise.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestPractiseImplementation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DriverInitialize.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/Resources/test.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinition/SampleStepDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Utils/GenericUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FindDifferentElements.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Plagiarism.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestPractise.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ClassC.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ClassA.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ClassB.java" />
+        <option value="C:/Idea/lopes-lab-automation-scripts/src/main/resources/Configuration.properties" />
+        <option value="C:/Idea/lopes-lab-automation-scripts/src/test/java/step_definations/LtiSteps.java" />
+        <option value="C:/Idea/lopes-lab-automation-scripts/src/main/java/common/LoggingLogFile.java" />
+        <option value="C:/Idea/lopes-lab-automation-scripts/src/test/java/runners/LtiPageRunner.java" />
+        <option value="C:/Idea/lopes-lab-automation-scripts/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestListener.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ListenerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ListenerTestClass.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lopes-lab-automation-scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Atul Sarathe\IdeaProjects\TestProject\src\test\Resources\TestData" />
+      <recent name="C:\Users\Atul Sarathe\IdeaProjects\TestProject\src\test\Resources\jsonFileStore" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ListenerTestClass">
+    <configuration name="Scenario: Login with student account having active contextid and userid" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="C:/Idea/lopes-lab-automation-scripts/src/test/resources/Features/student.feature" />
+      <option name="GLUE" value="step_definations" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="com.gcu.labs" />
+      <option name="NAME_FILTER" value="^Login with student account having active contextid and userid$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Login with student account having active contextid and userid$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with student account having active contextid and userid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify students can click on Re-provision icon and then cancel the action" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="C:/Idea/lopes-lab-automation-scripts/src/test/resources/Features/student.feature" />
+      <option name="GLUE" value="step_definations" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="com.gcu.labs" />
+      <option name="NAME_FILTER" value="^Verify students can click on Re\-provision icon and then cancel the action$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify students can click on Re\-provision icon and then cancel the action$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify students can click on Re-provision icon and then cancel the action" />
+      <option name="WORKING_DIRECTORY" value="C:/Idea/lopes-lab-automation-scripts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify the start button is enabled when instance is in stop status" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="C:/Idea/lopes-lab-automation-scripts/src/test/resources/Features/student.feature" />
+      <option name="GLUE" value="step_definations" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="com.gcu.labs" />
+      <option name="NAME_FILTER" value="^Verify the start button is enabled when instance is in stop status$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify the start button is enabled when instance is in stop status$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify the start button is enabled when instance is in stop status" />
+      <option name="WORKING_DIRECTORY" value="C:/Idea/lopes-lab-automation-scripts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListenerTestClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListenerTestClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LtiPageRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.gcu.labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.LtiPageRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Login with student account having active contextid and userid" />
+      <item itemvalue="Cucumber java.Scenario: Verify students can click on Re-provision icon and then cancel the action" />
+      <item itemvalue="Cucumber java.Scenario: Verify the start button is enabled when instance is in stop status" />
+      <item itemvalue="TestNG.ListenerTestClass" />
+      <item itemvalue="TestNG.LtiPageRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ListenerTestClass" />
+        <item itemvalue="TestNG.LtiPageRunner" />
+        <item itemvalue="Cucumber java.Scenario: Verify students can click on Re-provision icon and then cancel the action" />
+        <item itemvalue="Cucumber java.Scenario: Verify the start button is enabled when instance is in stop status" />
+        <item itemvalue="Cucumber java.Scenario: Login with student account having active contextid and userid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83b519e8-7ff7-4b96-95e8-cd334592c593" name="Default Changelist" comment="" />
+      <created>1564381145795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564381145795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenario__Verify_the_start_button_is_enabled_when_instance_is_in_stop_status - 2019.09.27 at 15h 21m 41s.xml">
+      <configuration name="Scenario: Verify the start button is enabled when instance is in stop status" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_students_can_click_on_Re-provision_icon_and_then_cancel_the_action - 2019.09.27 at 16h 04m 08s.xml">
+      <configuration name="Scenario: Verify students can click on Re-provision icon and then cancel the action" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_students_can_click_on_Re-provision_icon_and_then_cancel_the_action - 2019.09.27 at 16h 05m 32s.xml">
+      <configuration name="Scenario: Verify students can click on Re-provision icon and then cancel the action" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_students_can_click_on_Re-provision_icon_and_then_cancel_the_action - 2019.09.27 at 16h 12m 37s.xml">
+      <configuration name="Scenario: Verify students can click on Re-provision icon and then cancel the action" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_students_can_click_on_Re-provision_icon_and_then_cancel_the_action - 2019.09.27 at 16h 16m 58s.xml">
+      <configuration name="Scenario: Verify students can click on Re-provision icon and then cancel the action" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="LtiPageRunner - 2019.09.27 at 17h 23m 23s.xml">
+      <configuration name="LtiPageRunner" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ListenerTestClass - 2019.09.27 at 20h 02m 21s.xml">
+      <configuration name="ListenerTestClass" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ListenerTestClass - 2019.09.27 at 20h 04m 54s.xml">
+      <configuration name="ListenerTestClass" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ListenerTestClass - 2019.09.27 at 20h 06m 58s.xml">
+      <configuration name="ListenerTestClass" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ListenerTestClass - 2019.09.27 at 20h 07m 42s.xml">
+      <configuration name="ListenerTestClass" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4935065" visible="true" weight="0.30862328" />
+      <window_info id="Structure" order="1" sideWeight="0.5064935" side_tool="true" weight="0.27382752" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32993197" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3469388" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39965987" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32482994" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>checkStatus(driver, objAbstractPageObjects, strKeyWord);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Boolean synstatus2 = checkStatus(driver, objAbstractPageObjects, strKeyWord);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>String status = getElement(driver, objAbstractPageObjects, strKeyWord).getText();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dropDownSelect.selectByIndex(3);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dropDownSelect.selectByValue(&quot;Demo Tenant&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wait.until(ExpectedConditions.visibilityOfElementLocated(By.id(&quot;validation-email&quot;)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(&quot;//div[@id='errorMessage']&quot;)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wait.until(ExpectedConditions.visibilityOfElementLocated(By.id(&quot;errorMessage&quot;)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElement(By.xpath(&quot;//div[@id='errorMessage']&quot;)).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/testClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/StepDefinition/SampleStepDefinition.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Utils/GenericUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinition/SampleStepDefinition.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/test.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FindDifferentElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DriverInitialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/TestInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/Select.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="1304" column="18" selection-start-line="1304" selection-start-column="18" selection-end-line="1304" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/ui-automation-tests/src/test/java/edu/gcu/lopescan/uiautomation/testsuit/ReportPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/ui-automation-tests/src/test/java/edu/gcu/lopescan/uiautomation/testsuit/UploadDocPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/annotations/AfterClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestPractiseImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestPractise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="176" column="27" selection-start-line="176" selection-start-column="27" selection-end-line="176" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/ui-automation-tests/src/main/java/edu/gcu/lopescan/uiautomation/util/DataFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="124" column="64" lean-forward="true" selection-start-line="124" selection-start-column="64" selection-end-line="124" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/ui-automation-tests/src/test/java/edu/gcu/lopescan/uiautomation/testsuit/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="158" column="40" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClassC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClassB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#49#50#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClassA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="e#48#49#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Plagiarism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="141" column="84" selection-start-line="141" selection-start-column="84" selection-end-line="141" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/resources/Features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/main/java/common/LocalDriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/main/resources/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/main/resources/Faculty/Faculty.FacultyPage.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/java/step_definations/LoginSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/resources/Features/Faculty.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/java/step_definations/FacultySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/resources/Features/Classes.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/main/java/common/LoggingLogFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/main/java/common/LocalDriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="115" column="71" selection-start-line="115" selection-start-column="71" selection-end-line="115" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1371">
+          <caret line="967" column="18" selection-start-line="967" selection-start-column="18" selection-end-line="967" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/main/java/common/CreateTestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/java/pages/LtiPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/java/step_definations/AbstractPageStepDefination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/java/pages/AbstractPageObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/main/resources/LTI/Lti.LtiPage.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/java/step_definations/LtiSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="76" column="37" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/java/utils/FindWebElementBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="572" column="13" selection-start-line="572" selection-start-column="13" selection-end-line="572" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/resources/Features/student.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/output/09_27_2019 17_16/ScreenShots/Passed/chrome_Verify the start button is enabled when instance is in stop status.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/output/09_27_2019 17_16/ScreenShots/Passed/chrome_Verify students are able to view their assignment.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/output/09_27_2019 17_16/ScreenShots/Passed/chrome_Login with student account having active contextid and userid.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/target/cucumber-html-report/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/target/cucumber.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4488" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/src/test/java/runners/LtiPageRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Idea/lopes-lab-automation-scripts/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ListenerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ListenerTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tron-automation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20026007" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

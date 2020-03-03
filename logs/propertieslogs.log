@@ -1,0 +1,5 @@
+[DEBUG] 2020-03-03 16:18:49.371 [main] demoLog4jTest - This is a debug message
+[INFO ] 2020-03-03 16:18:49.380 [main] demoLog4jTest - This is an info message
+[WARN ] 2020-03-03 16:18:49.381 [main] demoLog4jTest - This is a warn message
+[ERROR] 2020-03-03 16:18:49.381 [main] demoLog4jTest - This is an error message
+[FATAL] 2020-03-03 16:18:49.381 [main] demoLog4jTest - This is a fatal message
